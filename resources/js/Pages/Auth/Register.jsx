@@ -12,7 +12,7 @@ export default function Register() {
         password: '',
         password_confirmation: '',
     });
-
+    
     const submit = (e) => {
         e.preventDefault();
 
